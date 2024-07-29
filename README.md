@@ -6,23 +6,24 @@ A curated list of top AI models and LLMs
 Top Open LLMs
 -----
 
-### 01-ai
+### [01-ai](https://altern.ai/company/01ai)
 
   - [Yi-34B](https://huggingface.co/collections/01-ai/yi-2023-11-663f3f19119ff712e176720f) - Released on November 6, 2023
   - [Yi1.5-6|9|34B](https://huggingface.co/collections/01-ai/yi-15-2024-05-663f3ecab5f815a3eaca7ca8) - Scheduled for May 2024
   - [Yi-VL-6B|34B](https://huggingface.co/collections/01-ai/yi-vl-663f557228538eae745769f3) - Released on January 2024
   
-### Alibaba
+### [Alibaba AI](https://altern.ai/company/alibaba)
+
   - [Qwen-1.8|7|14|72B](https://huggingface.co/collections/Qwen/qwen-65c0e50c3f1ab89cb8704144) - Released on December 2023
   - [Qwen1.5-1.8|4|7|14|32|72|110B](https://huggingface.co/collections/Qwen/qwen15-65c0a2f577b1ecb76d786524) - Released on December 2023
   - [CodeQwen-7B](https://huggingface.co/Qwen/CodeQwen1.5-7B) - Released on December 2023
   - [Qwen-VL-7B](https://huggingface.co/Qwen/Qwen-VL) - Released on December 2023
   - [Qwen2-0.5|1.5|7|57-MOE|72B](https://qwenlm.github.io/blog/qwen2/) - Released on December 2023
 
-### AllenAI
+### [AllenAI](https://altern.ai/company/allenai)
   - [OLMo-7B](https://huggingface.co/collections/allenai/olmo-suite-65aeaae8fe5b6b2122b46778) - Released on November 2023
 
-### Apple
+### [Apple](https://altern.ai/company/apple)
   - [OpenELM-1.1|3B](https://huggingface.co/apple/OpenELM) - Released on November 2023
 
 ### Baichuan
