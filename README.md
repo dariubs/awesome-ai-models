@@ -2,7 +2,7 @@
 
 A curated list of top AI models and LLMs
 
-Welcome to Awesome AI Models, your premier destination for cutting-edge AI Models. Our meticulously curated selection highlights the crème de la crème of generative AI Models and Large Language Models (LLMs), setting the gold standard in the industry. Whether you're an enthusiast looking to explore the latest advancements or a developer keen on showcasing your groundbreaking models, this is your stage. Contribute to our growing repository with a pull request—it's completely free! Join us and stay at the forefront of AI Model Innovations, where the future is continuously being crafted and redefined.
+> Welcome to Awesome AI Models, your premier destination for cutting-edge AI Models. Our meticulously curated selection highlights the crème de la crème of generative AI Models and Large Language Models (LLMs), setting the gold standard in the industry. Whether you're an enthusiast looking to explore the latest advancements or a developer keen on showcasing your groundbreaking models, this is your stage. Contribute to our growing repository with a pull request—it's completely free! Join us and stay at the forefront of AI Model Innovations, where the future is continuously being crafted and redefined.
 
 
 
