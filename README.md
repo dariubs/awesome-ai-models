@@ -6,12 +6,19 @@ A curated list of top AI models and LLMs
 
 
 
+- [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)
+  - [AI Model Hosting Platforms](#ai-model-hosting-platforms)
+  - [Top LLMs](#top-llms)
 
 
+AI Model Hosting Platforms
+--------------------------
+
+- [Hugging Face](https://huggingface.co/) - *[Review](https://altern.ai/ai/huggingface)* - *[Alternatives](https://altern.ai/alternatives/huggingface)* -  Build, share, and deploy AI models with ease.
+- [Github Models](https://github.blog/news-insights/product-news/introducing-github-models/) - *[Review](https://altern.ai/ai/github-models)* - *[Alternatives](https://altern.ai/alternatives/github-models)* - 
 
 
-
-Top Open LLMs
+Top LLMs
 -----
 
 ### [01-ai](https://altern.ai/company/01ai)
