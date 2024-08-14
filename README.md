@@ -9,6 +9,7 @@ A curated list of top AI models and LLMs
 - [Awesome AI Models](https://github.com/dariubs/awesome-ai-models)
   - [AI Model Hosting Platforms](#ai-model-hosting-platforms)
   - [Top LLMs](#top-llms)
+  - [More Lists](#more-lists)
 
 
 AI Model Hosting Platforms
@@ -122,3 +123,12 @@ Top LLMs
 ### Zhipu AI
 - [GLM-2|6|10|13|70B](https://huggingface.co/THUDM) - Released on November 2023
 - [CogVLM2-19B](https://huggingface.co/collections/THUDM/cogvlm2-6645f36a29948b67dc4eef75) - Released on November 2023
+
+
+## More Lists
+
+- [Altern](https://altern.ai) - Find Best AI Tools
+- [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of top AI models and LLMs
+- [There's An AI](https://theresanai.com) - Frontpage of AI
+- [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
+- [Awesome AI SEO](https://github.com/xaramore/awesome-ai-seo)
