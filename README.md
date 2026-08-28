@@ -17,6 +17,7 @@ AI Model Hosting Platforms
 
 - [Hugging Face](https://huggingface.co/) - *[Review](https://altern.ai/ai/huggingface)* - *[Alternatives](https://altern.ai/alternatives/huggingface)* -  Build, share, and deploy AI models with ease.
 - [Github Models](https://github.blog/news-insights/product-news/introducing-github-models/) - *[Review](https://altern.ai/ai/github-models)* - *[Alternatives](https://altern.ai/alternatives/github-models)* - Empowering Developers to Become AI Engineers with GitHub Models
+- [SandBase CLI](https://github.com/sandbaseai/cli) - Open-source CLI and local MCP bridge providing a unified interface to access 2,000+ AI model APIs.
 
 
 Top LLMs
