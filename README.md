@@ -127,7 +127,7 @@ Top LLMs
 
 ## More Lists
 
-- [Altern](https://altern.ai) - Find Best AI Tools
+- [Altern](https://altern.ai) - Find Best AI Tools - [ModelBenchmark](https://modelbenchmark.io) - Specs, prices, benchmarks and lifecycle for 2,000+ AI models.
 - [Awesome AI Tools](https://github.com/mahseema/awesome-ai-tools) - A curated list of top AI models and LLMs
 - [There's An AI](https://theresanai.com) - Frontpage of AI
 - [AI for Productivity](https://productivity.directory/category/ai) - Curated List of AI Apps for productivity
